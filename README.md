@@ -15,11 +15,12 @@
 
 3. 先码一下markdown的基本语法，在敲键盘中熟悉用法
 + 标题and分级标题ok
-+引用OK
-+代码块OK
-+链接OK
-+图片OK
-+表格（真的尝试了好久好久，被自己蠢哭，再也不会忘记空格了www）
++ 引用OK
++ 代码块OK
++ 链接OK
++ 图片OK
++ 表格（真的尝试了好久好久，被自己蠢哭，再也不会忘记空格了www）
+（好的，然后序列也完美忘记空格了orz）
 
 4. 复习复习复习代码QWQ
 ~~另外，好好军训，保证睡眠~~
@@ -52,11 +53,14 @@
 sequenceDiagram
 张学长：你好吗？
 我：不，我不好，菜的瑟瑟发抖。
+张学长：多写一点。
+我：已经没话写了QAQ
 ```
 ***************************
 
 ## 想要进程序部学习的内容
 各种编程语言，框架，技术都想要学习呢！！！
+（也没有精确到具体想学啥，就是希望自己厉害一点）
 在学习一下如何被大佬包围而存活嘻嘻
 
 >emm
@@ -79,7 +83,7 @@ sequenceDiagram
 - [ ]  [选第一个]
 
 ###最后放一张爱瑠
-！[1](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%8D%83%E5%8F%8D%E7%94%B0%E7%88%B1%E7%91%A0&step_word=&hs=0&pn=30&spn=0&di=27170&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=2263161807%2C1888952829&os=3525907274%2C3859274189&simid=3447493151%2C270723253&adpicid=0&lpn=0&ln=948&fr=&fmq=1568801969863_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201503%2F02%2F20150302103741_dsY54.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dnnmm8lld8&gsm=0&rpstart=0&rpnum=0&islist=&querylist=&force=undefined
+![1](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%8D%83%E5%8F%8D%E7%94%B0%E7%88%B1%E7%91%A0&step_word=&hs=0&pn=30&spn=0&di=27170&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=2263161807%2C1888952829&os=3525907274%2C3859274189&simid=3447493151%2C270723253&adpicid=0&lpn=0&ln=948&fr=&fmq=1568801969863_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201503%2F02%2F20150302103741_dsY54.png&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dnnmm8lld8&gsm=0&rpstart=0&rpnum=0&islist=&querylist=&force=undefined
 )
 
 
